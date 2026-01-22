@@ -2,3 +2,5 @@ ignore.txt
 __pycache__/
 *.pyc
 .DS_Store
+basics/test_inputs/*
+basics/test_outputs/*
