@@ -1,6 +1,27 @@
-ignore.txt
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
 .DS_Store
-basics/test_inputs/*
-basics/test_outputs/*
+Thumbs.db
+
+# Project specific
+ignore.txt
+test_*/   # Test directories
+*.log
+*.tmp
