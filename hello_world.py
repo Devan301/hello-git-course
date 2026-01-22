@@ -1,2 +1,3 @@
-print("Change in main")
-print("Change in feature")
+print("Hello world!")
+print("Hello from feature")
+print("Hello from release")
