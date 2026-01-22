@@ -1,4 +1,4 @@
-# Python
+
 __pycache__/
 *.py[cod]
 *$py.class
@@ -10,20 +10,20 @@ venv/
 env.bak/
 venv.bak/
 
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# System
 .DS_Store
 Thumbs.db
 
-# Project specific
-ignore.txt
-test_*/   # Test directories
-*.log
-*.tmp
 *.in
 *.out
+test_*/
+test_*/*
+
+
+ignore.txt
+*.log
+*.tmp
