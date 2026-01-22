@@ -25,3 +25,5 @@ ignore.txt
 test_*/   # Test directories
 *.log
 *.tmp
+*.in
+*.out
